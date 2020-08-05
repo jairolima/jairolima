@@ -12,4 +12,4 @@ Procuro descobrir novas maneiras de auxiliar empreendedores a tirar proveito da 
 <br/>
 💬 Sobre mim: Curto tecnologias, games Overwatch, Valorant, LoL e seriados no Netflix
  <br/> 
-:email: Entre em contato comigo: ![alt text](https://www.linkedin.com/inesqueciveljairo/https://img.shields.io/badge/-Linkedin-blue)
+:email: Entre em contato comigo:
