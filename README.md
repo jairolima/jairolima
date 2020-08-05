@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá pessoal, Jairo Lima aqui 👋
+<br/>
+Procuro descobrir novas maneiras de auxiliar empreendedores a tirar proveito da tecnologia. Sou um desenvolvedor Front-End 💻
 
-<!--
-**jairolima/jairolima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👀 Estou procurando vaga para atuar como desenvolvedor Front-End
+<br/>
+💻 Minha stack: ReactJS, NodeJS, AdonisJS, React Native & Typescript
+<br/>
+💬 Sobre mim: Curto tecnologias, games Overwatch, Valorant, LoL e seriados no Netflix
+ <br/> 
+:email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-JairoLima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/inesqueciveljairo/)](https://www.linkedin.com/in/inesqueciveljairo/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-inesqueciveljairo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inesqueciveljairo@gmail.com)](mailto:inesqueciveljairo@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
