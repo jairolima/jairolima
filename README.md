@@ -8,5 +8,5 @@ Procuro descobrir novas maneiras de auxiliar empreendedores a tirar proveito da 
 <br/>
 💬 Sobre mim: Curto tecnologias, games Overwatch, Valorant, LoL e seriados no Netflix
  <br/> 
-:email: &nbsp; Entre em contato comigo:
+:email: Entre em contato comigo:
 
