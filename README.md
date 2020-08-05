@@ -1,7 +1,6 @@
 ### Olá pessoal, Jairo Lima aqui 👋
 <br/>
 Procuro descobrir novas maneiras de auxiliar empreendedores a tirar proveito da tecnologia. Sou um desenvolvedor Front-End 💻
-<br/>
 👀 Estou procurando vaga para atuar como desenvolvedor Front-End
 <br/>
 💻 Minha stack: ReactJS, NodeJS, AdonisJS, React Native & Typescript
