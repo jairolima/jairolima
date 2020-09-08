@@ -2,8 +2,7 @@
 
 Procuro descobrir novas maneiras de auxiliar empreendedores a tirar proveito da tecnologia. Sou um desenvolvedor Front-End 💻
 <br/><br/>
-👀 Estou procurando vaga para atuar como desenvolvedor Front-End
-<br/>
+
 :blue_heart: Buscando colaborar com projetos em Front-end usando React ou mobile usando React Native
 <br/>
 😊 Posso te ajudar
